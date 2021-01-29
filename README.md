@@ -26,7 +26,7 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 1. Download the [Fallout New California BETA 231 INSTALLER](https://www.nexusmods.com/newvegas/mods/45138?tab=files) and extract the contents to an empty folder.
 2. Copy/paste your FalloutNV.exe file (located in steamapps\common\Fallout New Vegas) into an empty folder.
 3. Run the FalloutNewCaliforniaBETA231FullInstaller.exe file you extracted from the New California download.
-4. Assign the destination location to the folder you copied your FalloutNV.exe file into. **BY DEFAULT THE INSTALLER WILL ATTEMPT TO INSTALL INTO YOUR DATA FOLDER. MAKE ABSOLUTELY SURE YOU CHANGE THIS TO THE FOLDER WITH JUST YOUR GAME EXE.
+4. Assign the destination location to the folder you copied your FalloutNV.exe file into. **BY DEFAULT THE INSTALLER WILL ATTEMPT TO INSTALL INTO YOUR DATA FOLDER. MAKE ABSOLUTELY SURE YOU CHANGE THIS TO THE FOLDER WITH JUST YOUR GAME EXE.**
 5. Wait patiently for the installer to finish.
 6. Once finished, remove the FalloutNV.exe from the New California installation folder.
 7. Cut and paste the New California installation folder into your Starstruck Courier mods folder.
