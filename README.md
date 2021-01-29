@@ -6,6 +6,7 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 * Current version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases)
 * Clean, legally acquired installs of both Fallout 3 and Fallout New Vegas. **Both games must be installed on the same disk.**
 * A legally acquired copy of [Tale of Two Wastelands](https://taleoftwowastelands.com/dl)
+* A legally acquired copy of [Fallout: New California](https://www.nexusmods.com/newvegas/mods/45138)
 * A Nexusmods account. Nexus premium is **HIGHLY** recommended for automatic downloads.
 * 70GB Of free space. This figure does not include Fallout 3 or New Vegas installations.
 Once Fallout 3 and New Vegas are installed, run them both once through Steam. This will set up registry keys and allow Wabbajack to recognize them. Fallout 3 may not run - this is expected and normal.
@@ -21,6 +22,17 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 8. Accept the Nexusmods API request if asked.
 9. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed to the Tale of Two Wastelands install instructions.
 
+## FALLOUT: NEW CALIFORNIA INSTALLATION INSTRUCTIONS
+1. Download the [Fallout New California BETA 231 INSTALLER](https://www.nexusmods.com/newvegas/mods/45138?tab=files) and extract the contents to an empty folder.
+2. Copy/paste your FalloutNV.exe file (located in steamapps\common\Fallout New Vegas) into an empty folder.
+3. Run the FalloutNewCaliforniaBETA231FullInstaller.exe file you extracted from the New California download.
+4. Assign the destination location to the folder you copied your FalloutNV.exe file into. **BY DEFAULT THE INSTALLER WILL ATTEMPT TO INSTALL INTO YOUR DATA FOLDER. MAKE ABSOLUTELY SURE YOU CHANGE THIS TO THE FOLDER WITH JUST YOUR GAME EXE.
+5. Wait patiently for the installer to finish.
+6. Once finished, remove the FalloutNV.exe from the New California installation folder.
+7. Cut and paste the New California installation folder into your Starstruck Courier mods folder.
+8. Open Mod Organizer 2, located in your Starstruck Courier install folder.
+9. Press F5 to refresh the program, then enable the New California mod install on the lefthand panel.
+
 ## TALE OF TWO WASTELANDS INSTALLATION INSTRUCTIONS
 1. If you haven't already, download the TTW 3.2 Installer, the 3.2.1 Incremental Update, and the 3.2.2 Incremental Update.
 2. Extract all three zip files to an empty folder. It is recommended that this folder be on your Desktop for ease of access.
@@ -35,7 +47,7 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 11. Open Mod Organizer 2, located in your Starstruck Courier install folder. 
 12. Press F5 to refresh the program, then enable the TTW mod install on the lefthand panel.
 13. Download [loadorder.txt](https://drive.google.com/file/d/1dWpzJmbreDCbo8s6Kx6pa4eKMCeXsAYx/view?usp=sharing) and place it in profiles > Starstruck Courier located in your Starstruck Courier install folder.
-14. Press F5 to refresh Mod Organizer 2. It should now reflect the updated TTW load order.
+14. Press F5 to refresh Mod Organizer 2. It should now reflect the updated load order.
 
 ## POST INSTALLATION INSTRUCTIONS
 1. Navigate to the Starstruck Courier installation folder.
