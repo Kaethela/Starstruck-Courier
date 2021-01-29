@@ -82,6 +82,9 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 * **I've begun New California, where's all my stuff?**
 * You will have a starting loadout for New California depending on your choice (dodge or tackle) in the beginning of the game. When you have completed New California, you will be transported back to the starting bunker. There will be storage containers with your gear, including a bonus reward depending on which ending you received.
 
+* **Help! I'm getting terrible FPS drops in New Athen or other intense areas!**
+* This is a known issue with NC itself. There's not much that can be done about it. Try to power through.
+
 * **Can I skip ahead to New Vegas?**
 * No. TTW's New Vegas start is notoriously buggy and that option has been removed entirely for this list. Using console commands to teleport yourself there early can break the game, including CTDs or infinite loading screens. If you _must_ head there early, only do so after attaining level 3 in the Capital Wasteland, and after the pop-up message informing you that the bunker has been destroyed is dealt with.
 
