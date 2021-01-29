@@ -20,7 +20,7 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 6. Download location will auto-populate. This can be changed if you prefer.
 7. Click the button with the Play Arrow to begin the process.
 8. Accept the Nexusmods API request if asked.
-9. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed to the Tale of Two Wastelands install instructions.
+9. When Wabbajack completes you will see either a green **Installation Complete** screen or a red **Installation Failed** screen. If successful, proceed to the Fallout: New California install instructions.
 
 ## FALLOUT: NEW CALIFORNIA INSTALLATION INSTRUCTIONS
 1. Download the [Fallout New California BETA 231 INSTALLER](https://www.nexusmods.com/newvegas/mods/45138?tab=files) and extract the contents to an empty folder.
