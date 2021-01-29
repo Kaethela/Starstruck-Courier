@@ -71,7 +71,12 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
     * Set inspect watch key to your preference
 * **B42 Melee Bash**
 *   * Set melee bash key to your preference
-    
+
+## KNOWN ISSUES
+* A handful of locations in New California are very intensive and will cause frame drops. This is a known issue with the NC devs, and not something that can be fixed.
+* The quest objective will sometimes repeatedly pop-up. This so far appears to be localized to New California and I am looking into how this can be fixed.
+* Visible quest markers will occasionally point to seemingly empty spots of land. This is normal and will not pose any issues.
+
 ## FREQUENTLY ASKED QUESTIONS
 * **How do I begin New California?**
 * You will be given a quest on game startup entitled **The Room Where It Happens** - this is the pre-New California quest and it will guide you. To start, enter the bunker immediately to your left when you emerge from the vault exit tunnel, read the note on the table, and then activate the VR helmet.
@@ -81,9 +86,6 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 
 * **I've begun New California, where's all my stuff?**
 * You will have a starting loadout for New California depending on your choice (dodge or tackle) in the beginning of the game. When you have completed New California, you will be transported back to the starting bunker. There will be storage containers with your gear, including a bonus reward depending on which ending you received.
-
-* **Help! I'm getting terrible FPS drops in New Athen or other intense areas!**
-* This is a known issue with NC itself. There's not much that can be done about it. Try to power through.
 
 * **Can I skip ahead to New Vegas?**
 * No. TTW's New Vegas start is notoriously buggy and that option has been removed entirely for this list. Using console commands to teleport yourself there early can break the game, including CTDs or infinite loading screens. If you _must_ head there early, only do so after attaining level 3 in the Capital Wasteland, and after the pop-up message informing you that the bunker has been destroyed is dealt with.
