@@ -4,7 +4,7 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 
 ## REQUIREMENTS
 * Current version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases)
-* Clean, legally acquired installs of both Fallout 3 and Fallout New Vegas. **Both games must be installed on the same disk.**
+* Clean, legally acquired installs of Fallout 3, Fallout New Vegas, and all DLCs for both games. **Both games must be installed on the same disk.**
 * A legally acquired copy of [Tale of Two Wastelands](https://taleoftwowastelands.com/dl)
 * A legally acquired copy of [Fallout: New California](https://www.nexusmods.com/newvegas/mods/45138)
 * A Nexusmods account. Nexus premium is **HIGHLY** recommended for automatic downloads.
