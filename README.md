@@ -66,11 +66,7 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
     * Set to E to override vanilla minigames or to a different hotkey to have it act as standalone.
     * Disable Activate After Unlock
 * **The Weapon Mod Menu**
-    * Disable all weapon mods visible
-* **B42 Wristwatch**
-    * Set inspect watch key to your preference
-* **B42 Melee Bash**
-*   * Set melee bash key to your preference
+    * Disable All Weapon Mods Visible
 
 ## KNOWN ISSUES
 * A handful of locations in New California are very intensive and will cause frame drops. This is a known issue with the NC devs, and not something that can be fixed.
