@@ -106,4 +106,4 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 * She can be found in an abandoned tent on the road South of Primm between the Nevada Highway Patrol Station and the Nipton Road Rest Stop.
 
 * **Can I add or remove mods in this list?**
-* **_No. IF YOU CHANGE THIS LIST IN ANY WAY YOU VOID ALL SUPPORT._**
+* **_NO. IF YOU CHANGE THIS LIST IN ANY WAY YOU VOID ALL SUPPORT._**
