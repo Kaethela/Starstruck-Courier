@@ -84,6 +84,7 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 * A handful of locations in New California are very intensive and will cause frame drops. This is a known issue with the NC devs, and not something that can be fixed.
 * The quest objective will sometimes repeatedly pop-up. This so far appears to be localized to New California and I am looking into how this can be fixed.
 * Visible quest markers will occasionally point to seemingly empty spots of land. This is normal and will not pose any issues.
+* You may see some landscape flickering. This is a consequence of using the FNVLodgen tool, and nothing can be done about this.
 
 ## FREQUENTLY ASKED QUESTIONS
 * **How do I begin New California?**
