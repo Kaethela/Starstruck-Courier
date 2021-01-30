@@ -54,7 +54,7 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 2. Open the folder named **Game Folder Files**
 3. Copy everything in this folder and paste it into your Fallout New Vegas folder (steam/steamapps/common/Fallout New Vegas)
 
-**DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE Starstruck Courier FOLDER. COPY _ONLY_ THE FILES IN THE GAME FILES FOLDER.**
+**DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE STARSTRUCK COURIER FOLDER. COPY _ONLY_ THE FILES IN THE GAME FILES FOLDER.**
 
 ## BEFORE YOU BEGIN PLAYING
 * The mod **Tale of Two Wastelands Quick Start** will place you in the Vault 101 exit tunnel with most collectible items found in the vault. If you wish to play through the beginning of Fallout 3, simply disable this mod.
