@@ -48,6 +48,9 @@ Once Fallout 3 and New Vegas are installed, run them both once through Steam. Th
 12. Press F5 to refresh the program, then enable the TTW mod install on the lefthand panel.
 13. Download [loadorder.txt](https://drive.google.com/file/d/1dWpzJmbreDCbo8s6Kx6pa4eKMCeXsAYx/view?usp=sharing) and place it in profiles > Starstruck Courier located in your Starstruck Courier install folder.
 14. Press F5 to refresh Mod Organizer 2. It should now reflect the updated load order.
+15. Click and drag the Tale of Two Wastelands mod in MO2 to just underneath the Tale of Two Wastelands separator, as shown in the below image. The TTW install includes a critical plugin but this list has a more up to date standalone version. Without this step the TTW install will overwrite the updated plugin and issues will result. 
+
+![Load order image](https://i.imgur.com/dhFStM4.png)
 
 ## POST INSTALLATION INSTRUCTIONS
 1. Navigate to the Starstruck Courier installation folder.
