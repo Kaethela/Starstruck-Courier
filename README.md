@@ -10,7 +10,7 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 * A legally acquired copy of [Tale of Two Wastelands](https://taleoftwowastelands.com/dl)
 * A legally acquired copy of [Fallout: New California](https://www.nexusmods.com/newvegas/mods/45138)
 * A Nexusmods account. Nexus premium is **HIGHLY** recommended for automatic downloads.
-* 70GB Of free space. This figure does not include Fallout 3 or New Vegas installations. It does include some extra buffer space just to be safe. 
+* 70GB of free space. This figure does not include Fallout 3 or New Vegas installations. It does include some extra buffer space just to be safe. 
 * Once Fallout 3 and New Vegas are installed, run them both once through Steam. This will set up registry keys and allow Wabbajack to recognize them. Fallout 3 may not run - this is expected and normal.
 
 ## MODLIST INSTALLATION INSTRUCTIONS
