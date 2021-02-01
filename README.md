@@ -36,7 +36,7 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 8. Open Mod Organizer 2, located in your Starstruck Courier install folder.
 9. Press F5 to refresh the program, then enable the New California mod install on the lefthand panel.
 
-!(FNC installation image)[https://i.imgur.com/sOeI5BH.png]
+![FNC installation image](https://i.imgur.com/sOeI5BH.png)
 
 ## TALE OF TWO WASTELANDS INSTALLATION INSTRUCTIONS
 1. If you haven't already, download the [TTW 3.2 Installer](https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2_Full.7z), the [3.2.1 Incremental Update](https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2.1_Update.7z), and the [3.2.2 Incremental Update.](https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2.2_Update.7z)
