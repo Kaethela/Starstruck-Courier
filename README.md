@@ -64,7 +64,7 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 
 **DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE STARSTRUCK COURIER FOLDER. COPY _ONLY_ THE FILES IN THE GAME FILES FOLDER.**
 
-## OPTIONAL MODS
+## REGARDING THE DISABLED MODS
 * **lStewieAl's Tweaks - Reduced XP** - Enable this for a 50% Experience reduction. Do not enable this until after you have complete Fallout New California's prologue and slept in the bed in your dorm room. If you are not intending to play Fallout New California you can enable this from the beginning.
 * **Music Pack for Radio NV - No Song Info Messages** - This list contains a radio mod that adds many new songs and new features to Radio New Vegas. One of these features is Song Title and Artist Info in the top left of your screen on each new song. If you wish to disable these messages, enable this mod.
 
