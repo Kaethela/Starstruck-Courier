@@ -64,6 +64,10 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 
 **DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE STARSTRUCK COURIER FOLDER. COPY _ONLY_ THE FILES IN THE GAME FILES FOLDER.**
 
+## OPTIONAL MODS
+* **lStewieAl's Tweaks - Reduced XP** - Enable this for a 50% Experience reduction. Do not enable this until after you have complete Fallout New California's prologue and slept in the bed in your dorm room. If you are not intending to play Fallout New California you can enable this from the beginning.
+* **Music Pack for Radio NV - No Song Info Messages** - This list contains a radio mod that adds many new songs and new features to Radio New Vegas. One of these features is Song Title and Artist Info in the top left of your screen on each new song. If you wish to disable these messages, enable this mod.
+
 ## BEFORE YOU BEGIN PLAYING
 * The mod **Tale of Two Wastelands Quick Start** will place you in the Vault 101 exit tunnel with most collectible items found in the vault. If you wish to play through the beginning of Fallout 3, simply disable this mod.
 * In the exit tunnel, near the vault door is a terminal. You can use this terminal to select a starting loadout in order to prepare yourself for the adventures ahead. You will not carry this loadout with you into New California, but it will be returned to you when you complete it.
