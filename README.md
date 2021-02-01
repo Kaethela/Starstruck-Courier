@@ -30,8 +30,8 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 3. Run the FalloutNewCaliforniaBETA231FullInstaller.exe file you extracted from the New California download.
 4. Assign the destination location to the folder you copied your FalloutNV.exe file into. **BY DEFAULT THE INSTALLER WILL ATTEMPT TO INSTALL INTO YOUR DATA FOLDER. MAKE ABSOLUTELY SURE YOU CHANGE THIS TO THE FOLDER WITH JUST YOUR GAME EXE.**
 5. Wait patiently for the installer to finish.
-6. Once finished, remove the FalloutNV.exe from the New California installation folder.
-7. Cut and paste the New California installation folder into your Starstruck Courier mods folder.
+6. Once finished, delete everything **except** the Data folder in the New California installation folder.
+7. Rename the data folder left behind to **Fallout New California** and then cut and paste it into your Starstruck Courier mods folder.
 8. Open Mod Organizer 2, located in your Starstruck Courier install folder.
 9. Press F5 to refresh the program, then enable the New California mod install on the lefthand panel.
 
