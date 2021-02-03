@@ -108,6 +108,9 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 * **I've begun New California, where's all my stuff?**
 * You will have a starting loadout for New California depending on your choice (dodge or tackle) in the beginning of the game. When you have completed New California, you will be transported back to the starting bunker. There will be storage containers with your gear, including a bonus reward depending on which ending you received.
 
+* **Help! I'm way overleveled for Fallout 3 after completing New California!
+* It is highly recommended that you reduce your XP gain after completing the New California prologue. There is an included, disabled by default, mod which will cut your exp rate in half. If you wish to reduce this level further, you can edit **fXPMultiplier =** in the ini in the 50% EXP Rate mod.
+
 * **Can I skip ahead to New Vegas?**
 * No. TTW's New Vegas start is notoriously buggy and that option has been removed entirely for this list. Using console commands to teleport yourself there early can break the game, including CTDs or infinite loading screens. If you _must_ head there early, only do so after attaining level 3 in the Capital Wasteland, and after the pop-up message informing you that the bunker has been destroyed is dealt with.
 
