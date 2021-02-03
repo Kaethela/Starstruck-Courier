@@ -55,7 +55,7 @@ A list combining Tale of Two Wastelands with Fallout: New California, allowing o
 14. Press F5 to refresh Mod Organizer 2. It should now reflect the updated load order.
 15. Click and drag the Tale of Two Wastelands mod in MO2 to just underneath the Tale of Two Wastelands separator, as shown in the below image. The TTW install includes a critical plugin but this list has a more up to date standalone version. Without this step the TTW install will overwrite the updated plugin and issues will result. 
 
-![Load order image](https://i.imgur.com/dhFStM4.png)
+![Load order image](https://i.imgur.com/xpRDHUN.png)
 
 ## POST INSTALLATION INSTRUCTIONS
 1. Navigate to the Starstruck Courier installation folder.
