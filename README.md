@@ -2,7 +2,7 @@
 January 30th, 2021 - Full Install ~40GB
 
 ## MODLIST SUMMARY
-A list combining Tale of Two Wastelands with Fallout: New California, allowing one to play through Fallout 3, Fallout New Vegas, and Fallout: New California in one continuous save file. In addition to adding New California, this list also includes new quest content for both Fallout 3 and Fallout New Vegas, updated textures, gameplay improvements, and quality of life fixes.
+Starstruck Courier combines Tale of Two Wastelands with Fallout: New California, allowing one to play through Fallout 3, Fallout New Vegas, and Fallout: New California in one continuous save file. In addition to adding New California, this list also includes new quest content for both Fallout 3 and Fallout New Vegas, updated textures, gameplay improvements, and quality of life fixes.
 
 ## REQUIREMENTS
 * Current version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases)
