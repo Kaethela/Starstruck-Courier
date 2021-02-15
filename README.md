@@ -65,7 +65,7 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 **DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE STARSTRUCK COURIER FOLDER. COPY _ONLY_ THE FILES IN THE GAME FILES FOLDER.**
 
 ## UPDATING STARSTRUCK COURIER
-1. **IMPORTANT** Make a backup of the Tale of Two Wastelands and New California mods in your Starstruck Courier mods folder. Wabbajack will remove these when you re-run the application.
+1. **_IMPORTANT_** Make a backup of the Tale of Two Wastelands and New California mods in your Starstruck Courier mods folder. Wabbajack will remove these when you re-run the application.
 2. Run Wabbajack and download the new list update.
 3. Paste the Tale of Two Wastelands and New California backups into your Starstruck Courier mods folder.
 4. Open Mod Organizer 2, located in your Starstruck Courier install folder. 
