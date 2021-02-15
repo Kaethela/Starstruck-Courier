@@ -64,6 +64,16 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 
 **DO NOT COPY PASTE THE FOLDER ITSELF. DO NOT COPY YOUR ENTIRE STARSTRUCK COURIER FOLDER. COPY _ONLY_ THE FILES IN THE GAME FILES FOLDER.**
 
+## UPDATING STARSTRUCK COURIER
+1. **IMPORTANT** Make a backup of the Tale of Two Wastelands and New California mods in your Starstruck Courier mods folder. Wabbajack will remove these when you re-run the application.
+2. Run Wabbajack and download the new list update.
+3. Paste the Tale of Two Wastelands and New California backups into your Starstruck Courier mods folder.
+4. Open Mod Organizer 2, located in your Starstruck Courier install folder. 
+5. Press F5 to refresh the program, then enable the TTW mod install on the lefthand panel.
+6. Download [loadorder.txt](https://drive.google.com/file/d/1dWpzJmbreDCbo8s6Kx6pa4eKMCeXsAYx/view?usp=sharing) and place it in profiles > Starstruck Courier located in your Starstruck Courier install folder.
+7. Press F5 to refresh Mod Organizer 2. It should now reflect the updated load order.
+8. Click and drag the Tale of Two Wastelands mod in MO2 to just underneath the Tale of Two Wastelands separator, as shown in the below image. The TTW install includes a critical plugin but this list has a more up to date standalone version. Without this step the TTW install will overwrite the updated plugin and issues will result. 
+
 ## REGARDING THE DISABLED MODS
 * **50% XP Rate** - Enable this for a 50% Experience reduction. Do not enable this until after you have complete Fallout New California's prologue and slept in the bed in your dorm room. If you are not intending to play Fallout New California you can enable this from the beginning.
 * **Music Pack for Radio NV - No Song Info Messages** - This list contains a radio mod that adds many new songs and new features to Radio New Vegas. One of these features is Song Title and Artist Info in the top left of your screen on each new song. If you wish to disable these messages, enable this mod.
