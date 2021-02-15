@@ -46,8 +46,8 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 5. The installer will automatically detect your Fallout 3 and Fallout New Vegas installation paths. Confirm that these are correct.
 6. Change the Tale of Two Wastelands install path to a new, empty folder. This folder is again recommended to be on your Desktop for ease of access.
 7. Click **Install** and wait patiently until the program is completed.
-8. Repeat steps 3 through 7, this time selecting `TTW_v3.2_to_v3.2.1_Update.` Install the update to the same folder you installed the base 3.2 installation to.
-9. Repeat once more, this time selecting `TTW_v3.2.1_to_v3.2.2_Update.` As before, install this update to the same folder you installed the base install and the update to.
+8. Repeat steps 3 through 7, this time selecting `TTW_v3.2_to_v3.2.1_Update`. Install the update to the same folder you installed the base 3.2 installation to.
+9. Repeat once more, this time selecting `TTW_v3.2.1_to_v3.2.2_Update`. As before, install this update to the same folder you installed the base install and the update to.
 10. Cut and Paste this folder into your Starstruck Courier mods folder.
 11. Open Mod Organizer 2, located in your Starstruck Courier install folder. 
 12. Press F5 to refresh the program, then enable the TTW mod install on the lefthand panel.
