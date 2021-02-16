@@ -89,6 +89,7 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 * **TTW IS INTENDED FOR A FALLOUT 3 START. IF YOU START IN NEW VEGAS YOU WILL BREAK THE LIST.**
 
 ## MCM SETTINGS
+**WAIT UNTIL YOU HAVE EXITED VAULT 101 TO DO THESE SETTINGS**
 *  **JIP S-F**
     * General Settings - Set fire-mode switch key to whatever you prefer.
     * HUD Indicator Settings - Adjust to your preference. Option 1 displays the widget in the top right corner of the screen, while option 2 displays it close to your ammo count.
