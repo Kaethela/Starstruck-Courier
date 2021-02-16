@@ -89,8 +89,6 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 * **TTW IS INTENDED FOR A FALLOUT 3 START. IF YOU START IN NEW VEGAS YOU WILL BREAK THE LIST.**
 
 ## MCM SETTINGS
-**WAIT UNTIL YOU HAVE EXITED VAULT 101 TO DO THESE SETTINGS**
-
 *  **JIP S-F**
     * General Settings - Set fire-mode switch key to whatever you prefer.
     * HUD Indicator Settings - Adjust to your preference. Option 1 displays the widget in the top right corner of the screen, while option 2 displays it close to your ammo count.
@@ -106,6 +104,7 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
     * Disable All Weapon Mods Visible
 
 ## KNOWN ISSUES
+* MCM settings may not save properly or may reset. To reduce the chance of this happening, wait until you have exited Vault 101 and assigned S.P.E.C.I.A.L. stats, traits, etc. to do the MCM settings. 
 * A handful of locations in New California are very intensive and will cause frame drops. This is a known issue with the NC devs, and not something that can be fixed.
 * The quest objective will sometimes repeatedly pop-up. This so far appears to be localized to New California and I am looking into how this can be fixed.
 * Visible quest markers will occasionally point to seemingly empty spots of land. This is normal and will not pose any issues.
