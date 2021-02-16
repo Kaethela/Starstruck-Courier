@@ -94,6 +94,7 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
     * HUD Indicator Settings - Adjust to your preference. Option 1 displays the widget in the top right corner of the screen, while option 2 displays it close to your ammo count.
 * **Enhanced Item Info**
     * Disable Always Show List Box in both GameMode and Menumode.
+    * Disable Value/Weight Ratio under VATS Menu.
 * **Just Mods**
     * Disable Hold Breath, Bullet Time, and Loot Menu.
 * **Immersive Minigames**
