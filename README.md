@@ -32,7 +32,7 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 5. Wait patiently for the installer to finish.
 6. Once finished, delete everything **except** the Data folder in the New California installation folder.
 7. Rename the data folder left behind to **Fallout New California** 
-8. Cut and paste the resulting folder into your Starstruck Courier mods folder. Please see the image below to compare.
+8. Copy and paste the resulting folder into your Starstruck Courier mods folder. Please see the image below to compare.
 8. Open Mod Organizer 2, located in your Starstruck Courier install folder.
 9. Press F5 to refresh the program, then enable the New California mod install on the lefthand panel.
 
@@ -48,7 +48,7 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 7. Click **Install** and wait patiently until the program is completed.
 8. Repeat steps 3 through 7, this time selecting `TTW_v3.2_to_v3.2.1_Update` - Install the update to the same folder you installed the base 3.2 installation to.
 9. Repeat once more, this time selecting `TTW_v3.2.1_to_v3.2.2_Update` - As before, install this update to the same folder you installed the base install and the update to.
-10. Cut and Paste this folder into your Starstruck Courier mods folder.
+10. Copy and Paste this folder into your Starstruck Courier mods folder.
 11. Open Mod Organizer 2, located in your Starstruck Courier install folder. 
 12. Press F5 to refresh the program, then enable the TTW mod install on the lefthand panel.
 13. Download [loadorder.txt](https://drive.google.com/file/d/1dWpzJmbreDCbo8s6Kx6pa4eKMCeXsAYx/view?usp=sharing) and place it in profiles > Starstruck Courier located in your Starstruck Courier install folder.
