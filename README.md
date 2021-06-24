@@ -84,7 +84,6 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 * In the exit tunnel, near the vault door is a terminal. You can use this terminal to select a starting loadout in order to prepare yourself for the adventures ahead. You will not carry this loadout with you into New California, but it will be returned to you when you complete it.
 * Upon emerging from Vault 101's exit tunnel you will see a newly added bunker on your left. This contains the start area for New California. You must enter this bunker and begin New California before you hit level 3 or it will be permanently closed off to you. If you wish to skip New California and proceed straight to Fallout 3, simply ignore this bunker entirely.
 * On the left panel is a mod entitled **lStewieAI's Tweaks** - this is a file loaded with options that change how the game plays and crucial engine level fixes. If you are happy with how the game plays you won't need to touch anything in this mod. Otherwise, you can look through the ini in this mod and enable or disable tweaks and quality of life changes as you see fit. 
-* This list includes the mod **Immersive Minigames.** It de-levels all locks and terminals such that you are able to bypass the minigame and attempt to unlock or hack anything, regardless of your skill level. You can have this override the vanilla lockpicking and hacking interface or have it as a standalone. To hack or lockpick in this fashion, press your chosen hotkey on the lock or terminal and hold it down for roughly five seconds. The action may be successful, or it may fail. Consequences of failure include breaking the lock, being permanently locked out of the terminal, or making the lock/terminal significantly harder to unlock.
 * It is highly recommended to cap your FPS at 60. While the game is playable at higher framerates you may experience bugginess.
 * **TTW IS INTENDED FOR A FALLOUT 3 START. IF YOU START IN NEW VEGAS YOU WILL BREAK THE LIST.**
 
@@ -97,9 +96,6 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
     * Disable Value/Weight Ratio under VATS Menu.
 * **Just Mods**
     * Disable Hold Breath, Bullet Time, and Loot Menu.
-* **Immersive Minigames**
-    * Set to E to override vanilla minigames or to a different hotkey to have it act as standalone.
-    * Disable Activate After Unlock
 * **The Weapon Mod Menu**
     * Disable All Weapon Mods Visible
 
