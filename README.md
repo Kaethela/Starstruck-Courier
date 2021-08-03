@@ -35,6 +35,7 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 8. Copy and paste the resulting folder into your Starstruck Courier mods folder. Please see the image below to compare.
 8. Open Mod Organizer 2, located in your Starstruck Courier install folder.
 9. Press F5 to refresh the program, then enable the New California mod install on the lefthand panel.
+10. Click and drag the New California mod in MO2 to just underneath the New Content separator in MO2.
 
 ![FNC installation image](https://i.imgur.com/sOeI5BH.png)
 
