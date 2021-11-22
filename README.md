@@ -39,6 +39,13 @@ Starstruck Courier combines Tale of Two Wastelands with Fallout: New California,
 
 ![FNC installation image](https://i.imgur.com/sOeI5BH.png)
 
+## Downgrading Fallout 3
+> This step is only necessary if you have Fallout 3 installed from Steam. 
+1. Make sure both Mod Organizer 2 and Fallout 3 are closed
+2. Download the [Fallout 3 Downgrader file](https://cdn.discordapp.com/attachments/229685991475118093/898181596925001748/Fallout3Downgrader.7z)
+3. Extract the contents of the Fallout3Downgrader archive to the <abbr title="Steam\steamapps\common\Fallout 3 goty">Root</abbr> of Fallout 3
+4. Run Fallout3Downgrader.exe
+
 ## TALE OF TWO WASTELANDS INSTALLATION INSTRUCTIONS
 1. If you haven't already, download the [TTW 3.2 Installer](https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2_Full.7z), the [3.2.1 Incremental Update](https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2.1_Update.7z), and the [3.2.2 Incremental Update.](https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW_Install_v3.2.2_Update.7z)
 2. Extract all three zip files to an empty folder. It is recommended that this folder be on your Desktop for ease of access.
